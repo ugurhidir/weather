@@ -34,9 +34,9 @@ A command-line Python application that fetches and displays current weather info
 1.  Sign up for a free account at [https://openweathermap.org/](https://openweathermap.org/) and obtain an API key.
 2.  Clone this repository or download the Python file (e.g., `hava_durumu.py`).
     ```bash
-    # If you plan to create a repository for this:
-    # git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    # cd YOUR_REPOSITORY_NAME
+    
+    git clone https://github.com/ugurhidir/weather.git
+    cd weather
     ```
     (If you download the file directly, navigate to its directory.)
 3.  Install the `requests` library:
